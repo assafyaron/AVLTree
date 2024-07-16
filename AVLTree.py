@@ -1,11 +1,3 @@
-#username - meravgilboa1
-#id1      - 209383561 
-#name1    - merav gilboa 
-#id2      - 316595941
-#name2    - assaf yaron  
-
-
-
 """A class represnting a node in an AVL tree"""
 
 class AVLNode(object):
