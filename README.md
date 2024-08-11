@@ -16,7 +16,7 @@ AVL Tree implementation in python using two classes:
   
     Methods:
     
-      1. init O(1)
+      1. init             | O(1)
       2. search(key)      | O(logn)
       3. insert(key, val) | O(logn)
       4. delete(node)     | O(logn)
