@@ -2,7 +2,9 @@ AVL Tree implementation in python using two classes:
 #Assume n = number of nodes
 
   AVLNode:
-    methods (all at O(1)):
+  
+    Methods (all at O(1)):
+    
       1. init
       2. getters: left and right sons, parent, key, value, height and balance factor
       3. setters: left and right sons, parent, key, value, height, virtual_node and not_virtual
@@ -10,7 +12,9 @@ AVL Tree implementation in python using two classes:
       5. is_leaf()
       
   AVLTree:
+  
     Methods:
+    
       1. init O(1)
       2. search(key) O(logn)
       3. insert(key, val) O(logn)
