@@ -1,4 +1,4 @@
-AVL Tree implementation in python using two classes:
+AVL Tree implementation in python using two classes. Detailed documentation provided as pdf.
 
 #Assume n = number of nodes
 
